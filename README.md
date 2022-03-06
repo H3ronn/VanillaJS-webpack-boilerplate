@@ -1,1 +1,1 @@
-# VanillaJS-webpack-boilerplate
+# My basic js boilerplate with webpack
